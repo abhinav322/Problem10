@@ -1,2 +1,2 @@
 # Problem10
-Built a diode model using Lookup table.
+Build a diode model using Lookup table.
